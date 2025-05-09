@@ -37,6 +37,7 @@ const Cart = () => {
         <div>
           <div>Your Cart</div>
           <div>Summary</div>
+          console.log("Hii");
           <p>
             <span>Total Items: {cart.length}</span>
           </p>
